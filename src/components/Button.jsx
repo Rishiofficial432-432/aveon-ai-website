@@ -13,8 +13,19 @@ const Button = ({ className, href, onClick, children, px, white }) => {
     </button>
   );
 
+  const handleClick = (e) => {
+    // Check if the href is an internal anchor link
+    if (href?.startsWith('#')) {
+      e.preventDefault();
+      const element = document.querySelector(href);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  };
+
   const renderLink = () => (
-    <a href={href} className={classes}>
+    <a href={href} className={classes} onClick={handleClick}>
       <span className={spanClasses}>{children}</span>
       {ButtonSvg(white)}
     </a>
