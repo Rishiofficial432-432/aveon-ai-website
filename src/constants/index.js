@@ -123,30 +123,31 @@ export const roadmap = [
     colorful: true,
   },
   {
-    id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
-    status: "progress",
-    imageUrl: roadmap2,
-  },
-  {
-    id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
-    status: "done",
-    imageUrl: roadmap3,
-  },
-  {
-    id: "3",
-    title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
-    status: "progress",
-    imageUrl: roadmap4,
-  },
+  id: "1",
+  title: "Generative AI",
+  text: "Building cutting-edge generative AI models that can create text, images, and ideas — transforming the way users interact with digital content.",
+  date: "Nov 2024",
+  status: "progress",
+  imageUrl: roadmap2,
+},
+{
+  id: "2",
+  title: "AI Agents",
+  text: "Deploying intelligent autonomous agents that can reason, plan, and execute tasks — enabling businesses to automate and scale with precision.",
+  date: "Dec 2024",
+  status: "done",
+  imageUrl: roadmap3,
+},
+{
+  id: "3",
+  title: "AGI & AI Workflow Automation",
+  text: "Pushing boundaries toward Artificial General Intelligence while streamlining enterprise workflows through smart AI-driven automation and seamless API integrations.",
+  date: "May 2025",
+  status: "progress",
+  imageUrl: roadmap4,
+},
 ];
+
 
 export const collabText =
   "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
