@@ -74,7 +74,30 @@ aveon-ai-website/
 - Multi-platform support
 - Real-time updates
 
-## 📞 Contact
+## � Project Timeline
+
+### May 2023
+- Initial project conceptualization and brainstorming
+- Design system development
+- UI/UX wireframing and prototyping
+- Foundation architecture setup
+- Beta version development initiated
+
+### 2024
+- Advanced AI integration
+- Enhanced user experience
+- Multi-platform support added
+- Performance optimization
+- Security improvements
+
+### 2025 (Current)
+- Enterprise solutions implementation
+- Real-time collaboration features
+- Advanced analytics dashboard
+- Scalability improvements
+- Latest AI model integration
+
+## �📞 Contact
 
 For any inquiries about Aveon AI, please contact us at:
 - Email: rishiwork432@gmail.com
